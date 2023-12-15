@@ -1031,15 +1031,3 @@ Kết quả
 
 Flag : e2azO93i
 
-## [12. Second Order](https://www.root-me.org/en/Challenges/Web-Server/SQL-Injection-Second-Order)
-
-![image](https://hackmd.io/_uploads/SJabZh6B6.png)
-
-Chưa giải được :<
-
-## [13. Filter bypass](https://www.root-me.org/en/Challenges/Web-Server/SQL-injection-Filter-bypass)
-
-![image](https://hackmd.io/_uploads/ryscx3aBp.png)
-
-Đang giải ...
-
